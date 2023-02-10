@@ -1,6 +1,6 @@
 Hi.
 
-I'm Christoph Scherr
+I'm Christoph J. Scherr
   alias PlexSheep
   alias Pax483
 from Germany.
