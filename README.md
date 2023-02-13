@@ -6,11 +6,11 @@ I'm Christoph J. Scherr
 from Germany.
   
 I study Cyber Security at DHBW Mannheim. I am a Linux user and open source enthusiast.
-One of my hobbies is my homelab. My personal website is https://cscherr.de.
+One of my hobbies is my homelab. My personal website is https://www.cscherr.de.
 
 I am also a part of the CTF Team DU4L.
 
-If you have any questions for some reason, open an Issue in the specific repository or write an E-Mail to PlexSheep@protonmail.com
+If you have any questions for some reason, open an Issue in the specific repository or write an E-Mail to software@cscherr.de
 
 Stay healthy.
 
