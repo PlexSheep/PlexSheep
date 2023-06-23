@@ -18,7 +18,11 @@ from Germany.
 
 ### 🧑‍💻 CTF Team [DU4L](https://du4l.org/)
 
+### 📦 more of my projects over [here](https://git.cscherr.de/explore/repos)
+
 ---
+
+## 📟 Contact 📧
 
 If you have any questions for some reason, open an Issue in the specific repository or write an E-Mail to [software@cscherr.de](mailto:software@cscherr.de).
 
