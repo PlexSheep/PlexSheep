@@ -24,6 +24,8 @@ from Germany.
 
 ### 📦 more of my projects over [here](https://git.cscherr.de/explore/repos)
 
+### 🔑 my PGP public key: [here](https://static.cscherr.de/keys/PUBLICKEY-plexsheep.asc)
+
 ---
 
 ## 📟 Contact 📧
